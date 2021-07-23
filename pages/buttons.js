@@ -8,7 +8,7 @@ export default function Buttons() {
           <Button variant="primary" size="small">
             Primary
           </Button>
-          <Button variant="ghost" size="small">
+          <Button variant="primaryGhost" size="small">
             Primary
           </Button>
           <Button variant="primary" size="medium">
@@ -22,7 +22,7 @@ export default function Buttons() {
           <Button variant="secondary" size="small">
             Secondary
           </Button>
-          <Button variant="ghost" size="small">
+          <Button variant="secondaryGhost" size="small">
             Secondary
           </Button>
           <Button variant="secondary" size="medium">

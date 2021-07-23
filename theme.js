@@ -44,6 +44,20 @@ const config = {
           bg: "transparent",
           border: "1px solid red",
         },
+        primaryGhost: {
+          bg: "transparent",
+          border: "1px solid",
+          borderColor: "primary",
+        },
+        secondaryGhost: {
+          bg: "transparent",
+          border: "1px solid",
+          borderColor: "secondary",
+          _hover: {
+            color: "#fff",
+            bg: "#BB1415",
+          },
+        },
       },
     },
     Heading: {
