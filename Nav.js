@@ -20,9 +20,9 @@ export default function Nav() {
         <Link href="/font">
           <a>Font Size</a>
         </Link>
-        <Link href="/blog">
+        {/* <Link href="/blog">
           <a>Blog</a>
-        </Link>
+        </Link> */}
         <Link href="/factory">
           <a>factory</a>
         </Link>
